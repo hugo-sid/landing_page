@@ -41,6 +41,7 @@ This is also true for Quaterion, and it includes:
 3. Sample, dataset and data loader classes to make it easier to work with similarity learning data,
 4. A caching mechanism for faster iterations and less memory footprint.
 
+
 ## A closer look at Quaterion
 
 Let's break down some important modules:
